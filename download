@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <!-- Site made with Mobirise Website Builder v4.8.10, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v4.8.10, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo4.png" type="image/x-icon">
+  <meta name="description" content="Website Builder Description">
+  <title>Card 1</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  <meta http-equiv="refresh" content="3;url=https://s3.amazonaws.com/android.phonegap/production/apps/57db3716-1cc8-11e9-9844-0e4a22d4a604/Splat_-debug.3439661.11.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAZBJN4NX3MIUVOO66/20190123/us-east-1/s3/aws4_request&X-Amz-Date=20190123T150353Z&X-Amz-Expires=300&X-Amz-Security-Token=FQoGZXIvYXdzEIP//////////wEaDDLahgz2W7OHTaP/aiK3A/llkivsFPCDNBIjsL6bKOCd3YBOS65fH7Xr0kAD2ASlOH4%2BYlvez5X8q/zZeb0uynrNoSE31uCfrNQVF9kyic/ZdTa4qqetWO3SjJG/BcvmQ8LkgNiD29VKqlx0AVjwU%2BCI3er3zUZtXauyWooS%2BlEPQfMF/6l/abYuNet8VeVUMpSY3v7LX4mobXBaueDNpFnNSCC%2BeeOjwxYw6aQh5iP8XeRwMy5fxBWkQUKYUMQoxNuLYkOnmuexFW4yT2c0VJJDGkLloMgQ3/WTfkHw7QJSKKpr294%2BWB6r1/diz8zBRDmLV7ac22FF5pvg/ZkP7E6t3ag%2B4CtM6PdqOBODHnYDO9utl1ZjogPMPlcys2JlqfSHs0JhbFodX1snOywoXOAcuRtqu/baOUvffzk9WSqK%2BiqeKNoxKaoyKw6fjuI0LWqENHYh/7%2BSuwsOc4W1WJJyp%2BguOFDVKFwbuwUGoZijwUE5gX8CGWjP8Mt6ZXH2Z/cBwboSlxlGublxwmF9b3tquzczgQgKjWwX7Oi1HnSkwQcjCH%2Bz4MVGPjZfaWS9eEc3ewvlFqRvXpHvX9d6y18SFS/2l%2Bsogvig4gU%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=b7154c420e5a74e9f9849f033132d87d94354c6af48c0a2029bbdb46799d3844
+" />
+  
+</head>
+<body>
+  <link rel="stylesheet" href="style.less" class="cid-rfKsqRCSX2" id="menu1-7" data-rv-view="213">
+    
+
+    <figure class="mbr-figure container">
+        <div class="image-block" style="width: 100%;">
+            <img src="splash.png" alt="Mobirise" title="">
+            
+        </div>
+    </figure>
+
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  
+  
+</body>
+</html>
