@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "example.com"
+    xmlns:gap   = "example.com"
+    id          = "com.splat.app"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Splat!</name>
+
+  <description>
+      All about Jackson Pollock
+  </description>
+
+  <author>
+      Sam Poder
+  </author>
+
+  <icon src="icon.png" />
+  
+
+</widget>
